@@ -1,0 +1,17 @@
+{
+  "90fe2ec57176c26d8a44b02cf19f6dfe987706cdbad38fbacf3a923fc64124db-86a4c60bb2496e77afdec9ebcb7c20731efaca1c401113ce3aacd7490b9de588": {
+    "lang": "es",
+    "gameVersion": "2.6.1",
+    "transVersion": "1.0.0"
+  },
+  "hash-da-versao-1.0.1-espanhol": {
+    "lang": "es",
+    "gameVersion": "2.6.1",
+    "transVersion": "1.0.1"
+  },
+  "hash-da-versao-1.0.0-portugues": {
+    "lang": "pt-br",
+    "gameVersion": "2.6.1",
+    "transVersion": "1.0.0"
+  }
+}
